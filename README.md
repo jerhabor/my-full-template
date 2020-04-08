@@ -10,5 +10,5 @@ This project lists many technologies in the software development industry and li
 By having these technologies listed in one area, I can easily read up on them and draw comparisons as and when.
 
 ## Features
-* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) was used to render the website.
-* [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3) was used to style the HTML website.
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) was used to render the web page.
+* [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3) was used to style the HTML web page.
